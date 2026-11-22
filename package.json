@@ -7,7 +7,8 @@
     "dev": "vite dev",
     "start": "vite preview",
     "typecheck": "tsc --noEmit",
-    "sync": "sh scripts/sync-webstudio.sh"
+    "sync": "sh scripts/sync-webstudio.sh",
+    "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
     "@shikijs/langs": "4.4.1",

@@ -300,8 +300,8 @@
   .c1bk6pe4 {
     overflow-y: hidden
   }
-  .c1pj1cga {
-    width: clamp(230px, calc(26vw + 100px), 480px)
+  .ctsir9j {
+    width: clamp(230px, calc(26vw + 250px), 600px)
   }
   .c1smx44f {
     height: auto
@@ -817,6 +817,9 @@
   }
 }
 @media all and (max-width: 991px) {
+  .c9f69lw {
+    width: clamp(156px, calc(17.7vw + 168px), 426px)
+  }
   .csrtpqh {
     display: flex
   }

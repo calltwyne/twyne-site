@@ -5,11 +5,12 @@
       import { Fragment, useState } from "react";
       import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { HtmlEmbed as HtmlEmbed, Image as Image, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react/components";
+import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components-animation";
 
 
       export const projectId = "371dd6c6-fdc2-4b70-8c58-5536eddf106e";
 
-      export const projectVersion = 214;
+      export const projectVersion = 274;
 
       export const projectDomain = "twyne-d0hd8";
 
@@ -45,21 +46,27 @@ code={"<style>html{scroll-behavior:smooth}body{background:#FBF7F2;color:#4D3536;
 className={`w-html-embed`} />
 <header
 className={`w-element c1nl67qt cap7h43 co87io4 cosx2y0 cj4as5 c1ip51lm c1dcfw8h cc4y3bl c8hmidv cevfkc8 cu3pkvj c1gn966f c1bk6pe4`}>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":500,"unit":"ms"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <Image
 src={"/assets/twyne-logo_ZH0lPB8VSKTVhd5nynH4N.svg"}
 alt={"Twyne"}
 width={325}
 height={126}
-className={`w-image c1pj1cga c1smx44f`} />
+className={`w-image ctsir9j c1smx44f`} />
+</AnimateChildren>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Wipe in","description":"A wipe in is an animation where one scene gradually replaces another as it scrolls into the view.","keyframes":[{"offset":0,"styles":{"clip-path":{"type":"unparsed","value":"inset(0 100% 0 0)"}}},{"offset":1,"styles":{"clip-path":{"type":"unparsed","value":"inset(0 0 0 0)"}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":500,"unit":"ms"},"delay":{"type":"unit","value":500,"unit":"ms"},"rangeStart":["contain",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["contain",{"type":"unit","value":50,"unit":"%"}]}}]}}>
 <Image
 src={"/assets/shooting-star_bf5bE4j_tRBtgo8ti8kY6.svg"}
 alt={""}
 width={193}
 height={38}
-className={`w-image c1lc40dk c1smx44f c15vaj9y cc6h9ht c2jjh6z c1ftkqwk`} />
+className={`w-image c1lc40dk c1smx44f c15vaj9y cc6h9ht c2jjh6z c1ftkqwk c9f69lw`} />
+</AnimateChildren>
 <h1
 className={`w-element czhujck cc6h9ht c2jjh6z cypai27 c1vtuufh cgi1mk7 cr9l50h cnvm6x c156byvx c1xi7var cev5hnl c1mskcq8`}>
-{"Sometimes you just need someone to talk to."}
+{"For when you want to talk"}
 </h1>
 <p
 className={`w-element c1i6fp6f cc6h9ht c2jjh6z cypai27 c12cqp2u c9tk0yk cende6 cev5hnl ckigdma`}>
@@ -69,7 +76,7 @@ className={`w-element c1i6fp6f cc6h9ht c2jjh6z cypai27 c12cqp2u c9tk0yk cende6 c
 id={"signup"}
 className={`w-element cduv3z2 c2wofl7 c177yd2k c1h2i3b4 cnl0e16 c1nt2srw chomsh3 c1q068vq c1cmja0h cbhppp4 c16azbot cilwzau c1x22sq8 c9ykw4m cr2c0m2 cy9b982`}>
 <h2
-className={`w-element c1l9us9q cc6h9ht c1i9orww cypai27 cgi1mk7 cr9l50h c10kw9m0 c2i61yo`}>
+className={`w-element c1l9us9q cc6h9ht c1i9orww cypai27 cgi1mk7 cr9l50h c10kw9m0 c2i61yo cu3pkvj`}>
 {"Join the waitlist"}
 </h2>
 <HtmlEmbed
@@ -78,7 +85,7 @@ code={"<!-- MailerLite Universal -->\n<script>\n    (function(w,d,e,u,f,l,n){w[f
 className={`w-html-embed`} />
 <p
 className={`w-element c1dtldto cc6h9ht c2jjh6z cypai27 cmlun92 c146chqx c1pxcq`}>
-{"Free private beta on Android and iOS, in the US. We'll only use your email for beta news. You can unsubscribe anytime."}
+{"Free private beta on Android and iOS, in the US. We'll only use your email for beta news. You can unsubscribe anytime. Seats expected to start opening December 1st 2026 and we will open for weekend trial dates in early 2027."}
 </p>
 </div>
 <Image
@@ -162,6 +169,8 @@ aria-hidden={"true"}
 className={`w-element c41sczd c35bcud ccnnt2g cgg3k5f c1b1fz86 c182ha88 c16kb1wd c1ts44ms cd27j0t c130xw9q c5514a9 c66c417`} />
 <ol
 className={`w-element cilwzau chfma3x c3gwvwi c1gel12d cc4y3bl c8hmidv c5f0w58 c1agumxi c9y666 cggucie`}>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
 <span
@@ -178,6 +187,9 @@ className={`w-element`}>
 {": Record a short spoken intro and choose some optional preferences to help us match you with another user."}
 </p>
 </li>
+</AnimateChildren>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
 <span
@@ -194,6 +206,9 @@ className={`w-element`}>
 {"When you're free, you can choose to mark yourself as available for calls. When receiving a call, users will hear the intro for the person calling them and can decide then whether or not they are interested."}
 </p>
 </li>
+</AnimateChildren>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
 <span
@@ -210,6 +225,9 @@ className={`w-element`}>
 {"You can also choose to listen to other people's intros and initiate a call yourself."}
 </p>
 </li>
+</AnimateChildren>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
 <span
@@ -226,6 +244,7 @@ className={`w-element`}>
 {"Have your conversation. After the call, users can decide if they want to stay connected without notifying the other. If both users opt-in to staying connected, they can then see each-other's availability and make contact directly in the future."}
 </p>
 </li>
+</AnimateChildren>
 </ol>
 </div>
 <Image

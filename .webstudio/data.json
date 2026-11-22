@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 214,
+    "version": 274,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-22T16:29:40.212+00:00",
+    "updatedAt": "2026-11-22T17:05:29.781+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -1392,7 +1392,7 @@
           "property": "width",
           "value": {
             "type": "unparsed",
-            "value": "clamp(230px, calc(26vw + 100px), 480px)"
+            "value": "clamp(230px, calc(26vw + 250px), 600px)"
           }
         }
       ],
@@ -14901,6 +14901,30 @@
             "value": 1.125
           }
         }
+      ],
+      [
+        "Fx5oX0qN-r8gUj145XXEC:mlm_fV7kSpWHNJJ_fkhYl:width:",
+        {
+          "styleSourceId": "Fx5oX0qN-r8gUj145XXEC",
+          "breakpointId": "mlm_fV7kSpWHNJJ_fkhYl",
+          "property": "width",
+          "value": {
+            "type": "unparsed",
+            "value": "clamp(156px, calc(17.7vw + 168px), 426px)"
+          }
+        }
+      ],
+      [
+        "-6bcb9M9ZiMsBTms8CoSG:Pp_9hWdUBEWOGTGwRmM1f:textAlign:",
+        {
+          "styleSourceId": "-6bcb9M9ZiMsBTms8CoSG",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -18253,6 +18277,349 @@
           "type": "string",
           "value": "true"
         }
+      ],
+      [
+        "zBwWW3kCcAq7TugAq4C8u",
+        {
+          "id": "zBwWW3kCcAq7TugAq4C8u",
+          "instanceId": "7y8CuUa7EMIlUbo_hEGgp",
+          "name": "action",
+          "type": "animationAction",
+          "value": {
+            "type": "view",
+            "animations": [
+              {
+                "name": "Fade in",
+                "description": "Fade in the element as it scrolls into view.",
+                "keyframes": [
+                  {
+                    "offset": 0,
+                    "styles": {
+                      "opacity": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 0
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "easing": "linear",
+                  "fill": "backwards",
+                  "duration": {
+                    "type": "unit",
+                    "value": 1,
+                    "unit": "s"
+                  },
+                  "rangeStart": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 0,
+                      "unit": "%"
+                    }
+                  ],
+                  "rangeEnd": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 100,
+                      "unit": "%"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "ye8D-i2fyOuM_lGmRifhP",
+        {
+          "id": "ye8D-i2fyOuM_lGmRifhP",
+          "instanceId": "tvlF-iTS1KCU1opiy7Nqh",
+          "name": "action",
+          "type": "animationAction",
+          "value": {
+            "type": "view",
+            "animations": [
+              {
+                "name": "Fade in",
+                "description": "Fade in the element as it scrolls into view.",
+                "keyframes": [
+                  {
+                    "offset": 0,
+                    "styles": {
+                      "opacity": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 0
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "easing": "linear",
+                  "fill": "backwards",
+                  "duration": {
+                    "type": "unit",
+                    "value": 1,
+                    "unit": "s"
+                  },
+                  "rangeStart": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 0,
+                      "unit": "%"
+                    }
+                  ],
+                  "rangeEnd": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 100,
+                      "unit": "%"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "Sq6GBplJPhe2UgztTpkhj",
+        {
+          "id": "Sq6GBplJPhe2UgztTpkhj",
+          "instanceId": "IAY5xeeNMIZnQ5i9gO0mZ",
+          "name": "action",
+          "type": "animationAction",
+          "value": {
+            "type": "view",
+            "animations": [
+              {
+                "name": "Fade in",
+                "description": "Fade in the element as it scrolls into view.",
+                "keyframes": [
+                  {
+                    "offset": 0,
+                    "styles": {
+                      "opacity": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 0
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "easing": "linear",
+                  "fill": "backwards",
+                  "duration": {
+                    "type": "unit",
+                    "value": 1,
+                    "unit": "s"
+                  },
+                  "rangeStart": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 0,
+                      "unit": "%"
+                    }
+                  ],
+                  "rangeEnd": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 100,
+                      "unit": "%"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "XjezQc7l1EK8ZYrLmKQlv",
+        {
+          "id": "XjezQc7l1EK8ZYrLmKQlv",
+          "instanceId": "EMtg6Wd1hn3UxM14YLHNq",
+          "name": "action",
+          "type": "animationAction",
+          "value": {
+            "type": "view",
+            "animations": [
+              {
+                "name": "Fade in",
+                "description": "Fade in the element as it scrolls into view.",
+                "keyframes": [
+                  {
+                    "offset": 0,
+                    "styles": {
+                      "opacity": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 0
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "easing": "linear",
+                  "fill": "backwards",
+                  "duration": {
+                    "type": "unit",
+                    "value": 1,
+                    "unit": "s"
+                  },
+                  "rangeStart": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 0,
+                      "unit": "%"
+                    }
+                  ],
+                  "rangeEnd": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 100,
+                      "unit": "%"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "TTGvZGDGJBuTKquztoPX8",
+        {
+          "id": "TTGvZGDGJBuTKquztoPX8",
+          "instanceId": "CFaDCW54a0lKOUyNW-NFT",
+          "name": "action",
+          "type": "animationAction",
+          "value": {
+            "type": "view",
+            "animations": [
+              {
+                "name": "Fade in",
+                "description": "Fade in the element as it scrolls into view.",
+                "keyframes": [
+                  {
+                    "offset": 0,
+                    "styles": {
+                      "opacity": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 0
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "easing": "linear",
+                  "fill": "backwards",
+                  "duration": {
+                    "type": "unit",
+                    "value": 500,
+                    "unit": "ms"
+                  },
+                  "rangeStart": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 0,
+                      "unit": "%"
+                    }
+                  ],
+                  "rangeEnd": [
+                    "entry",
+                    {
+                      "type": "unit",
+                      "value": 100,
+                      "unit": "%"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "XRAAXpF_CtupJkaJX63aP",
+        {
+          "id": "XRAAXpF_CtupJkaJX63aP",
+          "instanceId": "hN74ie3xR5m98ac79cq-A",
+          "name": "action",
+          "type": "animationAction",
+          "value": {
+            "type": "view",
+            "animations": [
+              {
+                "name": "Wipe in",
+                "description": "A wipe in is an animation where one scene gradually replaces another as it scrolls into the view.",
+                "keyframes": [
+                  {
+                    "offset": 0,
+                    "styles": {
+                      "clip-path": {
+                        "type": "unparsed",
+                        "value": "inset(0 100% 0 0)"
+                      }
+                    }
+                  },
+                  {
+                    "offset": 1,
+                    "styles": {
+                      "clip-path": {
+                        "type": "unparsed",
+                        "value": "inset(0 0 0 0)"
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "easing": "linear",
+                  "fill": "backwards",
+                  "duration": {
+                    "type": "unit",
+                    "value": 500,
+                    "unit": "ms"
+                  },
+                  "delay": {
+                    "type": "unit",
+                    "value": 500,
+                    "unit": "ms"
+                  },
+                  "rangeStart": [
+                    "contain",
+                    {
+                      "type": "unit",
+                      "value": 0,
+                      "unit": "%"
+                    }
+                  ],
+                  "rangeEnd": [
+                    "contain",
+                    {
+                      "type": "unit",
+                      "value": 50,
+                      "unit": "%"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
       ]
     ],
     "instances": [
@@ -18512,11 +18879,11 @@
           "children": [
             {
               "type": "id",
-              "value": "Xt2JDaGT3fkX24Ly9oHOZ"
+              "value": "CFaDCW54a0lKOUyNW-NFT"
             },
             {
               "type": "id",
-              "value": "e72b6Gmjbpw9FOvnijYmD"
+              "value": "hN74ie3xR5m98ac79cq-A"
             },
             {
               "type": "id",
@@ -18565,7 +18932,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Sometimes you just need someone to talk to."
+              "value": "For when you want to talk"
             }
           ]
         }
@@ -18645,7 +19012,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Free private beta on Android and iOS, in the US. We'll only use your email for beta news. You can unsubscribe anytime."
+              "value": "Free private beta on Android and iOS, in the US. We'll only use your email for beta news. You can unsubscribe anytime. Seats expected to start opening December 1st 2026 and we will open for weekend trial dates in early 2027."
             }
           ]
         }
@@ -18909,19 +19276,19 @@
           "children": [
             {
               "type": "id",
-              "value": "ScssimScaHF5gtnQzkuhR"
+              "value": "7y8CuUa7EMIlUbo_hEGgp"
             },
             {
               "type": "id",
-              "value": "_9cCR3hR-1zf5Lg_f0uUw"
+              "value": "tvlF-iTS1KCU1opiy7Nqh"
             },
             {
               "type": "id",
-              "value": "UTZks2m6wqvX6OhT-qqQD"
+              "value": "IAY5xeeNMIZnQ5i9gO0mZ"
             },
             {
               "type": "id",
-              "value": "RmN82vTBpJh7fsPjDb1nL"
+              "value": "EMtg6Wd1hn3UxM14YLHNq"
             }
           ]
         }
@@ -21385,6 +21752,90 @@
             {
               "type": "text",
               "value": "Connect: "
+            }
+          ]
+        }
+      ],
+      [
+        "7y8CuUa7EMIlUbo_hEGgp",
+        {
+          "type": "instance",
+          "id": "7y8CuUa7EMIlUbo_hEGgp",
+          "component": "@webstudio-is/sdk-components-animation:AnimateChildren",
+          "children": [
+            {
+              "type": "id",
+              "value": "ScssimScaHF5gtnQzkuhR"
+            }
+          ]
+        }
+      ],
+      [
+        "tvlF-iTS1KCU1opiy7Nqh",
+        {
+          "type": "instance",
+          "id": "tvlF-iTS1KCU1opiy7Nqh",
+          "component": "@webstudio-is/sdk-components-animation:AnimateChildren",
+          "children": [
+            {
+              "type": "id",
+              "value": "_9cCR3hR-1zf5Lg_f0uUw"
+            }
+          ]
+        }
+      ],
+      [
+        "IAY5xeeNMIZnQ5i9gO0mZ",
+        {
+          "type": "instance",
+          "id": "IAY5xeeNMIZnQ5i9gO0mZ",
+          "component": "@webstudio-is/sdk-components-animation:AnimateChildren",
+          "children": [
+            {
+              "type": "id",
+              "value": "UTZks2m6wqvX6OhT-qqQD"
+            }
+          ]
+        }
+      ],
+      [
+        "EMtg6Wd1hn3UxM14YLHNq",
+        {
+          "type": "instance",
+          "id": "EMtg6Wd1hn3UxM14YLHNq",
+          "component": "@webstudio-is/sdk-components-animation:AnimateChildren",
+          "children": [
+            {
+              "type": "id",
+              "value": "RmN82vTBpJh7fsPjDb1nL"
+            }
+          ]
+        }
+      ],
+      [
+        "CFaDCW54a0lKOUyNW-NFT",
+        {
+          "type": "instance",
+          "id": "CFaDCW54a0lKOUyNW-NFT",
+          "component": "@webstudio-is/sdk-components-animation:AnimateChildren",
+          "children": [
+            {
+              "type": "id",
+              "value": "Xt2JDaGT3fkX24Ly9oHOZ"
+            }
+          ]
+        }
+      ],
+      [
+        "hN74ie3xR5m98ac79cq-A",
+        {
+          "type": "instance",
+          "id": "hN74ie3xR5m98ac79cq-A",
+          "component": "@webstudio-is/sdk-components-animation:AnimateChildren",
+          "children": [
+            {
+              "type": "id",
+              "value": "e72b6Gmjbpw9FOvnijYmD"
             }
           ]
         }
