@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 202,
+    "version": 214,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-22T08:26:58.164+00:00",
+    "updatedAt": "2026-11-22T16:29:40.212+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -14496,6 +14496,411 @@
             "value": "center"
           }
         }
+      ],
+      [
+        "EAenVUojJZ1cAMKJnnqpu:Pp_9hWdUBEWOGTGwRmM1f:display:",
+        {
+          "styleSourceId": "EAenVUojJZ1cAMKJnnqpu",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "EAenVUojJZ1cAMKJnnqpu:Pp_9hWdUBEWOGTGwRmM1f:rowGap:",
+        {
+          "styleSourceId": "EAenVUojJZ1cAMKJnnqpu",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "rowGap",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          }
+        }
+      ],
+      [
+        "EAenVUojJZ1cAMKJnnqpu:Pp_9hWdUBEWOGTGwRmM1f:columnGap:",
+        {
+          "styleSourceId": "EAenVUojJZ1cAMKJnnqpu",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "columnGap",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          }
+        }
+      ],
+      [
+        "EAenVUojJZ1cAMKJnnqpu:Pp_9hWdUBEWOGTGwRmM1f:alignItems:",
+        {
+          "styleSourceId": "EAenVUojJZ1cAMKJnnqpu",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "flex-start"
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:paddingTop:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 12
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.6
+          }
+        }
+      ],
+      [
+        "EAenVUojJZ1cAMKJnnqpu:mlm_fV7kSpWHNJJ_fkhYl:columnGap:",
+        {
+          "styleSourceId": "EAenVUojJZ1cAMKJnnqpu",
+          "breakpointId": "mlm_fV7kSpWHNJJ_fkhYl",
+          "property": "columnGap",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 14
+          }
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD:mlm_fV7kSpWHNJJ_fkhYl:paddingTop:",
+        {
+          "styleSourceId": "AV8J0fhHBiQgcput4OiBD",
+          "breakpointId": "mlm_fV7kSpWHNJJ_fkhYl",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 6
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:flexGrow:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "flexGrow",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:flexShrink:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "flexShrink",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:flexBasis:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "flexBasis",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 56
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:height:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 56
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:borderTopLeftRadius:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "borderTopLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 50
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:borderTopRightRadius:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "borderTopRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 50
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:borderBottomRightRadius:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "borderBottomRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 50
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:borderBottomLeftRadius:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "borderBottomLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 50
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:backgroundColor:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "backgroundColor",
+          "value": {
+            "type": "color",
+            "colorSpace": "hex",
+            "components": [
+              0.2902,
+              0.7412,
+              0.6745
+            ],
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:display:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:alignItems:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:justifyContent:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:mlm_fV7kSpWHNJJ_fkhYl:flexBasis:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "mlm_fV7kSpWHNJJ_fkhYl",
+          "property": "flexBasis",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 40
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:mlm_fV7kSpWHNJJ_fkhYl:height:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "mlm_fV7kSpWHNJJ_fkhYl",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 40
+          }
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M:mlm_fV7kSpWHNJJ_fkhYl:fontSize:",
+        {
+          "styleSourceId": "XJQZWXV2eccUgaWW6F28M",
+          "breakpointId": "mlm_fV7kSpWHNJJ_fkhYl",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.125
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -15498,6 +15903,27 @@
         {
           "type": "local",
           "id": "M2IS-ItP63OISd3Spv_IT"
+        }
+      ],
+      [
+        "EAenVUojJZ1cAMKJnnqpu",
+        {
+          "type": "local",
+          "id": "EAenVUojJZ1cAMKJnnqpu"
+        }
+      ],
+      [
+        "AV8J0fhHBiQgcput4OiBD",
+        {
+          "type": "local",
+          "id": "AV8J0fhHBiQgcput4OiBD"
+        }
+      ],
+      [
+        "XJQZWXV2eccUgaWW6F28M",
+        {
+          "type": "local",
+          "id": "XJQZWXV2eccUgaWW6F28M"
         }
       ]
     ],
@@ -16788,6 +17214,33 @@
             "M2IS-ItP63OISd3Spv_IT"
           ]
         }
+      ],
+      [
+        "RmN82vTBpJh7fsPjDb1nL",
+        {
+          "instanceId": "RmN82vTBpJh7fsPjDb1nL",
+          "values": [
+            "EAenVUojJZ1cAMKJnnqpu"
+          ]
+        }
+      ],
+      [
+        "kRLkUO3JUaoQCvwLNug2Z",
+        {
+          "instanceId": "kRLkUO3JUaoQCvwLNug2Z",
+          "values": [
+            "AV8J0fhHBiQgcput4OiBD"
+          ]
+        }
+      ],
+      [
+        "8dVubSId3KgTBfVOy6WhA",
+        {
+          "instanceId": "8dVubSId3KgTBfVOy6WhA",
+          "values": [
+            "XJQZWXV2eccUgaWW6F28M"
+          ]
+        }
       ]
     ],
     "props": [
@@ -17790,6 +18243,16 @@
           "type": "string",
           "value": "/"
         }
+      ],
+      [
+        "ewB-UPLgSVNfPcxlKfWbM",
+        {
+          "id": "ewB-UPLgSVNfPcxlKfWbM",
+          "instanceId": "8dVubSId3KgTBfVOy6WhA",
+          "name": "aria-hidden",
+          "type": "string",
+          "value": "true"
+        }
       ]
     ],
     "instances": [
@@ -18455,6 +18918,10 @@
             {
               "type": "id",
               "value": "UTZks2m6wqvX6OhT-qqQD"
+            },
+            {
+              "type": "id",
+              "value": "RmN82vTBpJh7fsPjDb1nL"
             }
           ]
         }
@@ -18502,8 +18969,12 @@
           "tag": "p",
           "children": [
             {
+              "type": "id",
+              "value": "KvISMT17gRbg65cd1AnS5"
+            },
+            {
               "type": "text",
-              "value": "Record a short spoken intro and choose some optional preferences to help us match you with another user."
+              "value": ": Record a short spoken intro and choose some optional preferences to help us match you with another user."
             }
           ]
         }
@@ -18551,8 +19022,12 @@
           "tag": "p",
           "children": [
             {
+              "type": "id",
+              "value": "uyYDeD28fgh67BqnJbdH7"
+            },
+            {
               "type": "text",
-              "value": "When you're free, you can choose to mark yourself as available for calls and/or listen to other people's intros and initiate a call yourself."
+              "value": "When you're free, you can choose to mark yourself as available for calls. When receiving a call, users will hear the intro for the person calling them and can decide then whether or not they are interested."
             }
           ]
         }
@@ -18600,8 +19075,12 @@
           "tag": "p",
           "children": [
             {
+              "type": "id",
+              "value": "4c1RhXEPUg9jIQ5X2tXxE"
+            },
+            {
               "type": "text",
-              "value": "When receiving a call, users will hear the intro for the person calling them and can decide then whether or not they are interested."
+              "value": "You can also choose to listen to other people's intros and initiate a call yourself."
             }
           ]
         }
@@ -20793,6 +21272,119 @@
             {
               "type": "text",
               "value": "Go to the home page"
+            }
+          ]
+        }
+      ],
+      [
+        "RmN82vTBpJh7fsPjDb1nL",
+        {
+          "type": "instance",
+          "id": "RmN82vTBpJh7fsPjDb1nL",
+          "component": "ws:element",
+          "tag": "li",
+          "children": [
+            {
+              "type": "id",
+              "value": "8dVubSId3KgTBfVOy6WhA"
+            },
+            {
+              "type": "id",
+              "value": "kRLkUO3JUaoQCvwLNug2Z"
+            }
+          ]
+        }
+      ],
+      [
+        "kRLkUO3JUaoQCvwLNug2Z",
+        {
+          "type": "instance",
+          "id": "kRLkUO3JUaoQCvwLNug2Z",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "id",
+              "value": "Fa_qSJy1cIherA51HF6nx"
+            },
+            {
+              "type": "text",
+              "value": "Have your conversation. After the call, users can decide if they want to stay connected without notifying the other. If both users opt-in to staying connected, they can then see each-other's availability and make contact directly in the future."
+            }
+          ]
+        }
+      ],
+      [
+        "8dVubSId3KgTBfVOy6WhA",
+        {
+          "type": "instance",
+          "id": "8dVubSId3KgTBfVOy6WhA",
+          "component": "ws:element",
+          "tag": "span",
+          "children": [
+            {
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      [
+        "KvISMT17gRbg65cd1AnS5",
+        {
+          "type": "instance",
+          "id": "KvISMT17gRbg65cd1AnS5",
+          "component": "ws:element",
+          "tag": "b",
+          "children": [
+            {
+              "type": "text",
+              "value": "Introduce Yourself"
+            }
+          ]
+        }
+      ],
+      [
+        "uyYDeD28fgh67BqnJbdH7",
+        {
+          "type": "instance",
+          "id": "uyYDeD28fgh67BqnJbdH7",
+          "component": "ws:element",
+          "tag": "b",
+          "children": [
+            {
+              "type": "text",
+              "value": "Be Available: "
+            }
+          ]
+        }
+      ],
+      [
+        "4c1RhXEPUg9jIQ5X2tXxE",
+        {
+          "type": "instance",
+          "id": "4c1RhXEPUg9jIQ5X2tXxE",
+          "component": "ws:element",
+          "tag": "b",
+          "children": [
+            {
+              "type": "text",
+              "value": "Initiate Conversation: "
+            }
+          ]
+        }
+      ],
+      [
+        "Fa_qSJy1cIherA51HF6nx",
+        {
+          "type": "instance",
+          "id": "Fa_qSJy1cIherA51HF6nx",
+          "component": "ws:element",
+          "tag": "b",
+          "children": [
+            {
+              "type": "text",
+              "value": "Connect: "
             }
           ]
         }

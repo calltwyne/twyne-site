@@ -9,7 +9,7 @@
 
       export const projectId = "371dd6c6-fdc2-4b70-8c58-5536eddf106e";
 
-      export const projectVersion = 202;
+      export const projectVersion = 214;
 
       export const projectDomain = "twyne-d0hd8";
 
@@ -171,7 +171,11 @@ className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt 
 </span>
 <p
 className={`w-element cys0s1d credlwh c13v8b5l c9y666 c157l7ex`}>
-{"Record a short spoken intro and choose some optional preferences to help us match you with another user."}
+<b
+className={`w-element`}>
+{"Introduce Yourself"}
+</b>
+{": Record a short spoken intro and choose some optional preferences to help us match you with another user."}
 </p>
 </li>
 <li
@@ -183,7 +187,11 @@ className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt 
 </span>
 <p
 className={`w-element cys0s1d credlwh c13v8b5l c9y666 c157l7ex`}>
-{"When you're free, you can choose to mark yourself as available for calls and/or listen to other people's intros and initiate a call yourself."}
+<b
+className={`w-element`}>
+{"Be Available: "}
+</b>
+{"When you're free, you can choose to mark yourself as available for calls. When receiving a call, users will hear the intro for the person calling them and can decide then whether or not they are interested."}
 </p>
 </li>
 <li
@@ -195,7 +203,27 @@ className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt 
 </span>
 <p
 className={`w-element cys0s1d credlwh c13v8b5l c9y666 c157l7ex`}>
-{"When receiving a call, users will hear the intro for the person calling them and can decide then whether or not they are interested."}
+<b
+className={`w-element`}>
+{"Initiate Conversation: "}
+</b>
+{"You can also choose to listen to other people's intros and initiate a call yourself."}
+</p>
+</li>
+<li
+className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
+<span
+aria-hidden={"true"}
+className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt c1tyxqon c12fzci4 cc4y3bl cevfkc8 c1y7wzlv cgi1mk7 cr9l50h c1c477ow cpu32ic c4cpl0d ceevomt`}>
+{"4"}
+</span>
+<p
+className={`w-element cys0s1d credlwh c13v8b5l c9y666 c157l7ex`}>
+<b
+className={`w-element`}>
+{"Connect: "}
+</b>
+{"Have your conversation. After the call, users can decide if they want to stay connected without notifying the other. If both users opt-in to staying connected, they can then see each-other's availability and make contact directly in the future."}
 </p>
 </li>
 </ol>

@@ -30,6 +30,10 @@
   article.w-element {
     box-sizing: border-box
   }
+  b.w-element {
+    font-weight: 700;
+    box-sizing: border-box
+  }
   body.w-element {
     box-sizing: border-box;
     min-width: 0;
