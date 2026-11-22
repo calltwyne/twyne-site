@@ -8,6 +8,7 @@
 //
 // - Absolute URLs: prerendering has no Host header, so the generated og:url
 //   and page context use the placeholder origin "https://url". Swap in SITE.
+//   A root-relative og:image (Webstudio's social image) is made absolute too.
 // - <link rel="canonical"> on every indexable page.
 // - JSON-LD: give the WebSite node a url, and describe the Organization on
 //   the home page.
@@ -91,6 +92,12 @@ for (const file of files) {
   let html = await readFile(file, "utf8");
 
   html = html.replaceAll(PLACEHOLDER_ORIGIN, SITE);
+  // The generated page passes no host, so a Webstudio social image comes out
+  // as a root-relative /assets/... URL; link previews need it absolute.
+  html = html.replace(
+    /(<meta property="og:image" content=")(\/[^"]*")/g,
+    `$1${SITE}$2`
+  );
 
   const noindex = /<meta name="robots" content="[^"]*noindex/.test(html);
   if (!noindex) {

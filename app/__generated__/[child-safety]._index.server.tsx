@@ -42,7 +42,7 @@ export const getManagedFormResourceGraph = (formId: string, _managedFormProps: {
     description: "Twyne's child safety standards: what we prohibit, how Twyne is built, how to report, and what we do.",
     excludePageFromSearch: undefined,
     language: "en",
-    socialImageAssetName: undefined,
+    socialImageAssetName: "twyne-share_bGN-OP27Bda1oeYeVLtnc.png",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,

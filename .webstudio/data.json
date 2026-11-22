@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 200,
+    "version": 202,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-22T08:18:25.595+00:00",
+    "updatedAt": "2026-11-22T08:26:58.164+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -20,7 +20,8 @@
           "rootInstanceId": "0mMBzTSETwmWuUyRHPE5G",
           "meta": {
             "description": "\"Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.\"",
-            "language": "\"en\""
+            "language": "\"en\"",
+            "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
           },
           "path": ""
         },
@@ -46,7 +47,8 @@
           "rootInstanceId": "R1UxTPLxnB8RFhXR4Vo8a",
           "meta": {
             "description": "\"Twyne's child safety standards: what we prohibit, how Twyne is built, how to report, and what we do.\"",
-            "language": "\"en\""
+            "language": "\"en\"",
+            "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
           },
           "path": "/child-safety"
         },
@@ -20816,7 +20818,8 @@
     "rootInstanceId": "0mMBzTSETwmWuUyRHPE5G",
     "meta": {
       "description": "\"Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.\"",
-      "language": "\"en\""
+      "language": "\"en\"",
+      "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
     },
     "path": ""
   },
@@ -20831,7 +20834,8 @@
       "rootInstanceId": "0mMBzTSETwmWuUyRHPE5G",
       "meta": {
         "description": "\"Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.\"",
-        "language": "\"en\""
+        "language": "\"en\"",
+        "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
       },
       "path": ""
     },
@@ -20857,7 +20861,8 @@
       "rootInstanceId": "R1UxTPLxnB8RFhXR4Vo8a",
       "meta": {
         "description": "\"Twyne's child safety standards: what we prohibit, how Twyne is built, how to report, and what we do.\"",
-        "language": "\"en\""
+        "language": "\"en\"",
+        "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
       },
       "path": "/child-safety"
     },
@@ -20905,6 +20910,22 @@
     }
   ],
   "assets": [
+    {
+      "id": "1jGTE8K3z3sDRvV_QO0H6",
+      "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+      "size": 111860,
+      "name": "twyne-share_bGN-OP27Bda1oeYeVLtnc.png",
+      "filename": "twyne-share",
+      "description": "Two people joined by a tin-can phone string, with the Twyne logo and the line For when you want to talk",
+      "createdAt": "2026-11-22T08:26:51.842+00:00",
+      "updatedAt": "2026-11-22T08:26:51.842+00:00",
+      "format": "png",
+      "meta": {
+        "width": 1200,
+        "height": 630
+      },
+      "type": "image"
+    },
     {
       "id": "1m5xAkyOo_vzX67g1agyq",
       "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",

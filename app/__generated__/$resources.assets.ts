@@ -1,5 +1,26 @@
 
     export const assets = {
+  "1jGTE8K3z3sDRvV_QO0H6": {
+    "id": "1jGTE8K3z3sDRvV_QO0H6",
+    "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+    "size": 111860,
+    "name": "twyne-share.png",
+    "filename": "twyne-share",
+    "description": "Two people joined by a tin-can phone string, with the Twyne logo and the line For when you want to talk",
+    "createdAt": "2026-11-22T08:26:51.842+00:00",
+    "updatedAt": "2026-11-22T08:26:51.842+00:00",
+    "format": "png",
+    "meta": {
+      "width": 1200,
+      "height": 630
+    },
+    "type": "image",
+    "url": "/assets/twyne-share_bGN-OP27Bda1oeYeVLtnc.png",
+    "width": 1200,
+    "height": 630,
+    "mimeType": "image/png",
+    "contentRef": "twyne-share_bGN-OP27Bda1oeYeVLtnc.png"
+  },
   "1m5xAkyOo_vzX67g1agyq": {
     "id": "1m5xAkyOo_vzX67g1agyq",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
@@ -297,6 +318,7 @@
   }
 };
     export const assetUrlsByPath = {
+  "/twyne-share.png": "/assets/twyne-share_bGN-OP27Bda1oeYeVLtnc.png",
   "/quicksand-600.woff2": "/assets/quicksand-600_FzaWbEGzIC9XHAbcHYK4Z.woff2",
   "/nunito-sans-400.woff2": "/assets/nunito-sans-400_y1T-JzhI-4Y9C2ePKq13b.woff2",
   "/nunito-sans-700.woff2": "/assets/nunito-sans-700_PQSbFWimOIg6NvKy-JwSz.woff2",

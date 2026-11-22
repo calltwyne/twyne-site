@@ -42,7 +42,7 @@ export const getManagedFormResourceGraph = (formId: string, _managedFormProps: {
     description: "Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.",
     excludePageFromSearch: undefined,
     language: "en",
-    socialImageAssetName: undefined,
+    socialImageAssetName: "twyne-share_bGN-OP27Bda1oeYeVLtnc.png",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,
