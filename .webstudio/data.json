@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 150,
+    "version": 198,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-22T07:02:35.512+00:00",
+    "updatedAt": "2026-11-22T08:07:43.634+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -14444,6 +14444,54 @@
             "value": "currentcolor"
           }
         }
+      ],
+      [
+        "Pxqt8NPRs5nj0VjWdqC2Z:Pp_9hWdUBEWOGTGwRmM1f:textAlign:",
+        {
+          "styleSourceId": "Pxqt8NPRs5nj0VjWdqC2Z",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "ZB0tlvGoCEJCGeoGrAqTI:Pp_9hWdUBEWOGTGwRmM1f:textAlign:",
+        {
+          "styleSourceId": "ZB0tlvGoCEJCGeoGrAqTI",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "end"
+          }
+        }
+      ],
+      [
+        "dfquL4WRNlOpI1AkMlytg:Pp_9hWdUBEWOGTGwRmM1f:textAlign:",
+        {
+          "styleSourceId": "dfquL4WRNlOpI1AkMlytg",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "end"
+          }
+        }
+      ],
+      [
+        "D3Nh-tXZd1N-PgjG2FLSJ:Pp_9hWdUBEWOGTGwRmM1f:justifyContent:",
+        {
+          "styleSourceId": "D3Nh-tXZd1N-PgjG2FLSJ",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -20749,7 +20797,10 @@
     "dataSources": [],
     "resources": [],
     "projectSettings": {
-      "meta": {},
+      "meta": {
+        "siteName": "Twyne",
+        "faviconAssetId": "LjAB8RIPne7mLiqQ5Ju1L"
+      },
       "compiler": {}
     }
   },
@@ -20979,6 +21030,36 @@
       "type": "image"
     },
     {
+      "id": "LjAB8RIPne7mLiqQ5Ju1L",
+      "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+      "size": 12014,
+      "name": "blue-can_BQzUKXsDo5ZvSE41yEAzm.svg",
+      "filename": "blue-can",
+      "createdAt": "2026-11-22T08:06:34.009+00:00",
+      "updatedAt": "2026-11-22T08:06:34.009+00:00",
+      "format": "svg",
+      "meta": {
+        "width": 37,
+        "height": 30
+      },
+      "type": "image"
+    },
+    {
+      "id": "slxivqjziMJufmNhh-56m",
+      "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+      "size": 28096,
+      "name": "blue-can_4GFNX2etHc-RTCzqGdBE3.png",
+      "filename": "blue-can_1",
+      "createdAt": "2026-11-22T05:40:41.327+00:00",
+      "updatedAt": "2026-11-22T05:40:41.327+00:00",
+      "format": "png",
+      "meta": {
+        "width": 280,
+        "height": 229
+      },
+      "type": "image"
+    },
+    {
       "id": "sLzNp8pJ6VXhunGenyBBb",
       "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
       "size": 109998,
@@ -20990,6 +21071,21 @@
       "meta": {
         "width": 1200,
         "height": 560
+      },
+      "type": "image"
+    },
+    {
+      "id": "vUjP4Plrdv4JTaSiokHsd",
+      "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+      "size": 28096,
+      "name": "blue-can_4GFNX2etHc-RTCzqGdBE3.png",
+      "filename": "blue-can",
+      "createdAt": "2026-11-22T05:40:41.327+00:00",
+      "updatedAt": "2026-11-22T05:40:41.327+00:00",
+      "format": "png",
+      "meta": {
+        "width": 280,
+        "height": 229
       },
       "type": "image"
     },

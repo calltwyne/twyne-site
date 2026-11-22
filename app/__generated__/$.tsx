@@ -15,12 +15,12 @@
 
       export const lastPublished = "2026-11-22T04:10:05.146Z";
 
-      export const siteName = undefined;
+      export const siteName = "Twyne";
 
       export const breakpoints = [{"id":"6PBiIQLVUCpsOnPCLkDEt"},{"id":"Pp_9hWdUBEWOGTGwRmM1f"},{"id":"mlm_fV7kSpWHNJJ_fkhYl","maxWidth":991},{"id":"k6qnuB7tABoSOx2Gc9-jD","maxWidth":767},{"id":"mgToMO8EhT3Q4wSpBfmjF","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        undefined;
+        "blue-can_BQzUKXsDo5ZvSE41yEAzm.svg";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =

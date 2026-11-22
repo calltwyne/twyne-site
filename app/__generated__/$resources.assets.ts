@@ -173,6 +173,46 @@
     "mimeType": "image/svg+xml",
     "contentRef": "wheelchair-aim-narrow_3yWZIgIGDL0mclinqtqrv.svg"
   },
+  "LjAB8RIPne7mLiqQ5Ju1L": {
+    "id": "LjAB8RIPne7mLiqQ5Ju1L",
+    "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+    "size": 12014,
+    "name": "blue-can.svg",
+    "filename": "blue-can",
+    "createdAt": "2026-11-22T08:06:34.009+00:00",
+    "updatedAt": "2026-11-22T08:06:34.009+00:00",
+    "format": "svg",
+    "meta": {
+      "width": 37,
+      "height": 30
+    },
+    "type": "image",
+    "url": "/assets/blue-can_BQzUKXsDo5ZvSE41yEAzm.svg",
+    "width": 37,
+    "height": 30,
+    "mimeType": "image/svg+xml",
+    "contentRef": "blue-can_BQzUKXsDo5ZvSE41yEAzm.svg"
+  },
+  "slxivqjziMJufmNhh-56m": {
+    "id": "slxivqjziMJufmNhh-56m",
+    "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+    "size": 28096,
+    "name": "blue-can_1.png",
+    "filename": "blue-can_1",
+    "createdAt": "2026-11-22T05:40:41.327+00:00",
+    "updatedAt": "2026-11-22T05:40:41.327+00:00",
+    "format": "png",
+    "meta": {
+      "width": 280,
+      "height": 229
+    },
+    "type": "image",
+    "url": "/assets/blue-can_4GFNX2etHc-RTCzqGdBE3.png",
+    "width": 280,
+    "height": 229,
+    "mimeType": "image/png",
+    "contentRef": "blue-can_4GFNX2etHc-RTCzqGdBE3.png"
+  },
   "sLzNp8pJ6VXhunGenyBBb": {
     "id": "sLzNp8pJ6VXhunGenyBBb",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
@@ -192,6 +232,26 @@
     "height": 560,
     "mimeType": "image/svg+xml",
     "contentRef": "hero-thread_1_ec2-bz3CPAbEHHXyBHc9I.svg"
+  },
+  "vUjP4Plrdv4JTaSiokHsd": {
+    "id": "vUjP4Plrdv4JTaSiokHsd",
+    "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
+    "size": 28096,
+    "name": "blue-can.png",
+    "filename": "blue-can",
+    "createdAt": "2026-11-22T05:40:41.327+00:00",
+    "updatedAt": "2026-11-22T05:40:41.327+00:00",
+    "format": "png",
+    "meta": {
+      "width": 280,
+      "height": 229
+    },
+    "type": "image",
+    "url": "/assets/blue-can_4GFNX2etHc-RTCzqGdBE3.png",
+    "width": 280,
+    "height": 229,
+    "mimeType": "image/png",
+    "contentRef": "blue-can_4GFNX2etHc-RTCzqGdBE3.png"
   },
   "wlNaXgZ84zaS77gPZDhrU": {
     "id": "wlNaXgZ84zaS77gPZDhrU",
@@ -245,7 +305,10 @@
   "/receiver-aim.svg": "/assets/receiver-aim_uxdnkdxjqIIR4YD9r6BOk.svg",
   "/nunito-sans-600.woff2": "/assets/nunito-sans-600_7MeWw70NSIYVE8v5eQmy3.woff2",
   "/wheelchair-aim-narrow.svg": "/assets/wheelchair-aim-narrow_3yWZIgIGDL0mclinqtqrv.svg",
+  "/blue-can.svg": "/assets/blue-can_BQzUKXsDo5ZvSE41yEAzm.svg",
+  "/blue-can_1.png": "/assets/blue-can_4GFNX2etHc-RTCzqGdBE3.png",
   "/hero-thread_1.svg": "/assets/hero-thread_1_ec2-bz3CPAbEHHXyBHc9I.svg",
+  "/blue-can.png": "/assets/blue-can_4GFNX2etHc-RTCzqGdBE3.png",
   "/wheelchair-aim-wide.svg": "/assets/wheelchair-aim-wide_RCo9xornFd_6qo3BRR_qK.svg",
   "/twyne-logo.svg": "/assets/twyne-logo_ZH0lPB8VSKTVhd5nynH4N.svg"
 };

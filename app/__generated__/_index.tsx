@@ -9,18 +9,18 @@
 
       export const projectId = "371dd6c6-fdc2-4b70-8c58-5536eddf106e";
 
-      export const projectVersion = 150;
+      export const projectVersion = 198;
 
       export const projectDomain = "twyne-d0hd8";
 
       export const lastPublished = "2026-11-22T04:10:05.146Z";
 
-      export const siteName = undefined;
+      export const siteName = "Twyne";
 
       export const breakpoints = [{"id":"6PBiIQLVUCpsOnPCLkDEt"},{"id":"Pp_9hWdUBEWOGTGwRmM1f"},{"id":"mlm_fV7kSpWHNJJ_fkhYl","maxWidth":991},{"id":"k6qnuB7tABoSOx2Gc9-jD","maxWidth":767},{"id":"mgToMO8EhT3Q4wSpBfmjF","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        undefined;
+        "blue-can_BQzUKXsDo5ZvSE41yEAzm.svg";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -241,7 +241,7 @@ className={`w-link cttknds cr9l50h cz2avgp cr9u4ah cecn0ox ca5xc7i`}>
 <section
 className={`w-element c1nl67qt cap7h43 co87io4 cnmpi4u cj4as5 ckvaf87 c1dcfw8h`}>
 <div
-className={`w-element c1u7ab5o c1l9us9q c19hxjhy c2jjh6z cfpl2cp`}>
+className={`w-element c1u7ab5o c1l9us9q c19hxjhy c2jjh6z cfpl2cp cu3pkvj`}>
 <h2
 className={`w-element c1l9us9q cc6h9ht c15uwhet cypai27 cgi1mk7 cr9l50h cl2c4uk cvgmh4b c1xi7var`}>
 {"The private beta"}
@@ -251,14 +251,14 @@ className={`w-element c1l9us9q cc6h9ht c18fbzs0 cypai27 credlwh c14y2su c1d4061m
 {"The private beta is free. Beta users who stay active get a lifetime discount and a few free months when we launch. We'll only use your email for beta news."}
 </p>
 <div
-className={`w-element cc4y3bl cdcftb8 cevfkc8 c1tj64vu c1eutnrb`}>
+className={`w-element cc4y3bl cdcftb8 cevfkc8 c1tj64vu c1eutnrb c1y7wzlv`}>
 <Link
 href={"#signup"}
-className={`w-link c1gcf15q cevfkc8 c1y7wzlv c5cncwy c1ud0shj c8eswfq c1ip51lm cllgq4t c1xf8u6x c1r4cklt c10kbjax c1ovx0xu c12fzci4 cap7h43 cr9l50h c1iepym cmkrgqe cecn0ox ca5xc7i`}>
+className={`w-link c1gcf15q cevfkc8 c1y7wzlv c5cncwy c1ud0shj c8eswfq c1ip51lm cllgq4t c1xf8u6x c1r4cklt c10kbjax c1ovx0xu c12fzci4 cap7h43 cr9l50h c1iepym cmkrgqe cecn0ox ca5xc7i chg5apf`}>
 {"Join the waitlist"}
 </Link>
 <p
-className={`w-element c1iepym c11gsxy7 c9y666`}>
+className={`w-element c1iepym c11gsxy7 chg5apf c9y666`}>
 {"Questions? "}
 <Link
 href={"mailto:hello@calltwyne.com"}
