@@ -1,0 +1,21 @@
+# Dependencies and build output
+node_modules/
+dist/
+.temp/
+
+# Webstudio local state (caches, previews, backups, credentials)
+.webstudio/auth.json
+.webstudio/preview/
+.webstudio/preview-process.json
+.webstudio/project-session.json
+.webstudio/restore-points.json
+.webstudio/projects/
+# Staging copies of uploads; the synced assets live in public/
+.webstudio/assets/
+
+# Machine-specific editor / agent config
+.mcp.json
+.claude/settings.local.json
+
+# OS noise
+.DS_Store
