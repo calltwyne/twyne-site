@@ -77,12 +77,12 @@ className={`w-link cd35lbh cr9u4ah cecn0ox ca5xc7i`}>
 <Link
 href={"/terms"}
 className={`w-link cd35lbh cr9u4ah cecn0ox ca5xc7i c10itx1o`}>
-{"Terms Of Service"}
+{"Terms of service"}
 </Link>
 <Link
 href={"/privacy"}
 className={`w-link cd35lbh cr9u4ah cecn0ox ca5xc7i c10itx1o c16lz287`}>
-{"Privacy Policy"}
+{"Privacy policy"}
 </Link>
 </div>
 <span
