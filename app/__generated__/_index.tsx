@@ -9,7 +9,7 @@
 
       export const projectId = "371dd6c6-fdc2-4b70-8c58-5536eddf106e";
 
-      export const projectVersion = 198;
+      export const projectVersion = 200;
 
       export const projectDomain = "twyne-d0hd8";
 

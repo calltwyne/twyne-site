@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 198,
+    "version": 200,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-22T08:07:43.634+00:00",
+    "updatedAt": "2026-11-22T08:18:25.595+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -60,6 +60,7 @@
           "rootInstanceId": "1y601tKs39kkcHlVh-pTW",
           "meta": {
             "description": "\"Twyne's Terms of Service\"",
+            "excludePageFromSearch": "true",
             "language": "\"en\""
           },
           "path": "/terms"
@@ -74,6 +75,7 @@
           "rootInstanceId": "E2S56kfDPy2PwulP9FLKh",
           "meta": {
             "description": "\"Twyne's privacy policy\"",
+            "excludePageFromSearch": "true",
             "language": "\"en\""
           },
           "path": "/privacy"
@@ -20869,6 +20871,7 @@
       "rootInstanceId": "1y601tKs39kkcHlVh-pTW",
       "meta": {
         "description": "\"Twyne's Terms of Service\"",
+        "excludePageFromSearch": "true",
         "language": "\"en\""
       },
       "path": "/terms"
@@ -20883,6 +20886,7 @@
       "rootInstanceId": "E2S56kfDPy2PwulP9FLKh",
       "meta": {
         "description": "\"Twyne's privacy policy\"",
+        "excludePageFromSearch": "true",
         "language": "\"en\""
       },
       "path": "/privacy"

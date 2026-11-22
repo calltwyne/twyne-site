@@ -40,7 +40,7 @@ export const getManagedFormResourceGraph = (formId: string, _managedFormProps: {
   return {
     title: "Terms of Service | Twyne",
     description: "Twyne's Terms of Service",
-    excludePageFromSearch: undefined,
+    excludePageFromSearch: true,
     language: "en",
     socialImageAssetName: undefined,
     socialImageUrl: undefined,
