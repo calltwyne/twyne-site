@@ -33,7 +33,7 @@
 
       const Page = (_props: { system: any; }) => {
 return <body
-className={`w-element`}>
+className={`w-element cc4y3bl c8hmidv cvi06ho`}>
 <HtmlEmbed
 code={"<style>html{scroll-behavior:smooth}body{background:#FBF7F2;color:#4D3536;caret-color:#1F6F64}::selection{background:#DDF2EE;color:#4D3536}:focus-visible{outline:3px solid #1F6F64;outline-offset:3px;border-radius:6px}a{text-underline-offset:0.2em;text-decoration-thickness:1.5px}@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}</style>"}
 className={`w-html-embed`} />
@@ -75,7 +75,7 @@ className={`w-link c1gcf15q cevfkc8 c5cncwy c1ud0shj c1vfkxcq c1ip51lm c1e2m50e 
 </div>
 </main>
 <footer
-className={`w-element c1nl67qt c1pxcq co87io4 cc4y3bl cdcftb8 cgl58xy c1wxmlz8 c10pupnp cevfkc8 cmlun92 c11gsxy7 cc354i7 cr2c0m2`}>
+className={`w-element c1nl67qt c1pxcq co87io4 c7rxyvd cj4as5 c1i9wogj c1dcfw8h cc4y3bl cdcftb8 cgl58xy c1wxmlz8 c10pupnp cevfkc8 cmlun92 c11gsxy7 c1ms6jn2 cc354i7`}>
 <div
 className={`w-element`}>
 <Link

@@ -681,11 +681,20 @@
   .c11gsxy7 {
     line-height: 1.5
   }
+  .c7rxyvd {
+    padding-top: 14px
+  }
+  .c1i9wogj {
+    padding-bottom: 14px
+  }
   .cgl58xy {
     row-gap: 8px
   }
   .c10pupnp {
     justify-content: space-between
+  }
+  .c1ms6jn2 {
+    margin-top: auto
   }
   .cc354i7 {
     border-top: 1px solid #eadfd6
@@ -806,6 +815,12 @@
   }
   .c1e2m50e {
     padding-left: 28px
+  }
+  .c1m4wm9d {
+    align-self: center
+  }
+  .cvi06ho {
+    min-height: 100dvh
   }
 }
 @media (min-width: 1128px) {
