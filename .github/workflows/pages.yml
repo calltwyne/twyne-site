@@ -33,10 +33,11 @@ jobs:
 
       - run: npm run build
 
-      # GitHub Pages serves /404.html for missing URLs. The "Not found" page is
-      # built from Webstudio at /404, so copy it into place.
-      - name: Add 404 page
-        run: cp dist/client/404/index.html dist/client/404.html
+      # Absolute URLs, canonicals, JSON-LD, sitemap.xml, robots.txt, and
+      # flat /page.html files (which also puts the Webstudio /404 page at
+      # /404.html, where GitHub Pages looks for it). See the script header.
+      - name: SEO post-processing
+        run: node scripts/seo-postbuild.mjs dist/client
 
       - uses: actions/upload-pages-artifact@v3
         with:
