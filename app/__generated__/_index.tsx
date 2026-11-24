@@ -10,7 +10,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       export const projectId = "371dd6c6-fdc2-4b70-8c58-5536eddf106e";
 
-      export const projectVersion = 301;
+      export const projectVersion = 303;
 
       export const projectDomain = "twyne-d0hd8";
 
@@ -287,6 +287,73 @@ href={"/child-safety"}
 className={`w-link cttknds cr9l50h cz2avgp cr9u4ah cecn0ox ca5xc7i`}>
 {"Read our child safety standards"}
 </Link>
+</div>
+</section>
+<section
+id={"faq"}
+aria-labelledby={"faq-heading"}
+className={`w-element c1d34gvc cap7h43 co87io4 cnmpi4u cj4as5 ckvaf87 c1dcfw8h`}>
+<div
+className={`w-element c1u7ab5o c1l9us9q c19hxjhy c2jjh6z cfpl2cp`}>
+<h2
+id={"faq-heading"}
+className={`w-element c1l9us9q cc6h9ht cwfojy1 cypai27 cgi1mk7 cr9l50h cl2c4uk cvgmh4b c1xi7var`}>
+{"Questions"}
+</h2>
+<h3
+className={`w-element c1ahi6ks cc6h9ht cheptof cypai27 cgi1mk7 cr9l50h c1c477ow c2i61yo`}>
+{"Is Twyne anonymous?"}
+</h3>
+<p
+className={`w-element credlwh c14y2su c9y666`}>
+{"Yes. Nobody sees your name, number or profile. The other person only hears your spoken intro and what you choose to say on the call. If you both opt in after a call, you can stay connected."}
+</p>
+<h3
+className={`w-element c1ahi6ks cc6h9ht cheptof cypai27 cgi1mk7 cr9l50h c1c477ow c2i61yo`}>
+{"Is Twyne a dating app?"}
+</h3>
+<p
+className={`w-element credlwh c14y2su c9y666`}>
+{"No. Twyne is for conversation: share what's on your mind, listen to someone else, or just talk."}
+</p>
+<h3
+className={`w-element c1ahi6ks cc6h9ht cheptof cypai27 cgi1mk7 cr9l50h c1c477ow c2i61yo`}>
+{"How does Twyne keep calls safe?"}
+</h3>
+<p
+className={`w-element credlwh c14y2su c9y666`}>
+{"Both people choose to talk: you hear someone's intro before you call them or pick up. Calls are securely recorded and only reviewed if someone reports a problem, and recordings are deleted after 30 days unless a report needs them. Twyne is for adults 18+."}
+</p>
+<h3
+className={`w-element c1ahi6ks cc6h9ht cheptof cypai27 cgi1mk7 cr9l50h c1c477ow c2i61yo`}>
+{"Is Twyne free?"}
+</h3>
+<p
+className={`w-element credlwh c14y2su c9y666`}>
+{"The private beta is free. Beta users who stay active get a lifetime discount and a few free months when we launch."}
+</p>
+<h3
+className={`w-element c1ahi6ks cc6h9ht cheptof cypai27 cgi1mk7 cr9l50h c1c477ow c2i61yo`}>
+{"Who can join, and when?"}
+</h3>
+<p
+className={`w-element credlwh c14y2su c9y666`}>
+{"Adults 18+ in the US, on Android and iOS. Beta seats are expected to start opening on December 1st, 2026, with weekend trial dates in early 2027."}
+</p>
+<h3
+className={`w-element c1ahi6ks cc6h9ht cheptof cypai27 cgi1mk7 cr9l50h c1c477ow c2i61yo`}>
+{"Is Twyne a mental health or crisis service?"}
+</h3>
+<p
+className={`w-element credlwh c14y2su c9y666`}>
+{"No. Twyne is for everyday conversation and isn't a substitute for professional support. If you're in crisis in the US, call or text "}
+<Link_1
+href={"https://988lifeline.org"}
+className={`w-element cxx5p2g cr9u4ah`}>
+{"988"}
+</Link_1>
+{"."}
+</p>
 </div>
 </section>
 <section

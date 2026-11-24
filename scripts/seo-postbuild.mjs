@@ -10,8 +10,8 @@
 //   and page context use the placeholder origin "https://url". Swap in SITE.
 //   A root-relative og:image (Webstudio's social image) is made absolute too.
 // - <link rel="canonical"> on every indexable page.
-// - JSON-LD: give the WebSite node a url, and describe the Organization on
-//   the home page.
+// - JSON-LD: give the WebSite node a url, describe the Organization on the
+//   home page, and add FAQPage data from any <section id="faq">.
 // - Flatten /foo/index.html to /foo.html so GitHub Pages serves /foo with a
 //   200 instead of a 301 to /foo/ (internal links have no trailing slash).
 //   This also puts the static 404 page at /404.html, where Pages expects it.
@@ -53,6 +53,33 @@ const toRoutePath = (file) => {
 const escapeAttr = (value) =>
   value.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
 
+const decodeEntities = (value) =>
+  value
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(Number(dec)))
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&");
+
+const toPlainText = (fragment) =>
+  decodeEntities(fragment.replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
+
+// The FAQ is authored in Webstudio as <section id="faq"> with h3 question /
+// p answer pairs; derive FAQPage data from it so there is one source of truth.
+const extractFaq = (html) => {
+  const section = html.match(/<section[^>]*\bid="faq"[^>]*>([\s\S]*?)<\/section>/);
+  if (!section) return [];
+  return [...section[1].matchAll(/<h3[^>]*>([\s\S]*?)<\/h3>\s*<p[^>]*>([\s\S]*?)<\/p>/g)].map(
+    ([, question, answer]) => ({
+      "@type": "Question",
+      name: toPlainText(question),
+      acceptedAnswer: { "@type": "Answer", text: toPlainText(answer) },
+    })
+  );
+};
+
 const rewriteJsonLd = (html, routePath) =>
   html.replace(
     /(<script type="application\/ld\+json">)([\s\S]*?)(<\/script>)/,
@@ -73,6 +100,14 @@ const rewriteJsonLd = (html, routePath) =>
           url: `${SITE}/`,
           logo: `${SITE}/assets/${LOGO_ASSET}`,
           email: CONTACT_EMAIL,
+        });
+      }
+      const faq = extractFaq(html);
+      if (faq.length > 0) {
+        graph.push({
+          "@type": "FAQPage",
+          url: `${SITE}${routePath}`,
+          mainEntity: faq,
         });
       }
       const json = JSON.stringify(

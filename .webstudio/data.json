@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 301,
+    "version": 303,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-24T20:59:34.037+00:00",
+    "updatedAt": "2026-11-24T21:09:56.489+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -13,13 +13,13 @@
         {
           "id": "bdrm5mcT63-l19-Ws6E_T",
           "name": "Home",
-          "title": "\"Twyne: voice calls with someone new\"",
+          "title": "\"Twyne: Anonymous Voice Calls With Strangers\"",
           "history": [
             "/"
           ],
           "rootInstanceId": "0mMBzTSETwmWuUyRHPE5G",
           "meta": {
-            "description": "\"Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.\"",
+            "description": "\"Twyne is a voice-only app for real conversations with strangers. Hear someone's intro, choose who to call, and just talk. Join the free US beta waitlist.\"",
             "language": "\"en\"",
             "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
           },
@@ -15182,6 +15182,1416 @@
             "value": "auto"
           }
         }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:backgroundColor:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "backgroundColor",
+          "value": {
+            "type": "color",
+            "colorSpace": "hex",
+            "components": [
+              0.8667,
+              0.949,
+              0.9333
+            ],
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:color:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "color",
+          "value": {
+            "type": "color",
+            "colorSpace": "hex",
+            "components": [
+              0.302,
+              0.2078,
+              0.2118
+            ],
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Nunito Sans",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:paddingTop:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "paddingTop",
+          "value": {
+            "type": "unparsed",
+            "value": "clamp(64px,9vw,120px)"
+          }
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:paddingRight:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          }
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:paddingBottom:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unparsed",
+            "value": "clamp(64px,9vw,120px)"
+          }
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D:Pp_9hWdUBEWOGTGwRmM1f:paddingLeft:",
+        {
+          "styleSourceId": "MY1_SYzK5o3JW9UWxDc0D",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          }
+        }
+      ],
+      [
+        "QTNjuqaYBDoUm9YGyJYSD:Pp_9hWdUBEWOGTGwRmM1f:maxWidth:",
+        {
+          "styleSourceId": "QTNjuqaYBDoUm9YGyJYSD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "maxWidth",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 720
+          }
+        }
+      ],
+      [
+        "QTNjuqaYBDoUm9YGyJYSD:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "QTNjuqaYBDoUm9YGyJYSD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "QTNjuqaYBDoUm9YGyJYSD:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "QTNjuqaYBDoUm9YGyJYSD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "QTNjuqaYBDoUm9YGyJYSD:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "QTNjuqaYBDoUm9YGyJYSD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "QTNjuqaYBDoUm9YGyJYSD:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "QTNjuqaYBDoUm9YGyJYSD",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 28
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unparsed",
+            "value": "clamp(1.875rem,4vw,2.75rem)"
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.12
+          }
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn:Pp_9hWdUBEWOGTGwRmM1f:letterSpacing:",
+        {
+          "styleSourceId": "gMytxzRFX9SxuvfsGmSPn",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "letterSpacing",
+          "value": {
+            "type": "unit",
+            "unit": "em",
+            "value": -0.02
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 8
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "n8VZDBcGTwYcbrhtbp7vS",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          }
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "djANix9_qJ0pNEYVF3-sw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "djANix9_qJ0pNEYVF3-sw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "djANix9_qJ0pNEYVF3-sw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "djANix9_qJ0pNEYVF3-sw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "djANix9_qJ0pNEYVF3-sw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "djANix9_qJ0pNEYVF3-sw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.65
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 8
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "vhC10pdkoCFBY79Glup9K",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          }
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "6x1bSx2_9Yepn5JSTkOBi",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "6x1bSx2_9Yepn5JSTkOBi",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "6x1bSx2_9Yepn5JSTkOBi",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "6x1bSx2_9Yepn5JSTkOBi",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "6x1bSx2_9Yepn5JSTkOBi",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "6x1bSx2_9Yepn5JSTkOBi",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.65
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 8
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "fDFvhmH2RyEz5BrWoForp",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          }
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "0ihS5k-gEBq1LfeYRUOk8",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "0ihS5k-gEBq1LfeYRUOk8",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "0ihS5k-gEBq1LfeYRUOk8",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "0ihS5k-gEBq1LfeYRUOk8",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "0ihS5k-gEBq1LfeYRUOk8",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "0ihS5k-gEBq1LfeYRUOk8",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.65
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 8
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "rzU9QRZ9IzeAu3XVunHpl",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          }
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "YG_NiK4HXjasN2DJ4RYI9",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "YG_NiK4HXjasN2DJ4RYI9",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "YG_NiK4HXjasN2DJ4RYI9",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "YG_NiK4HXjasN2DJ4RYI9",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "YG_NiK4HXjasN2DJ4RYI9",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "YG_NiK4HXjasN2DJ4RYI9",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.65
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 8
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "q3ZHokhF-lRSwEnIObmCw",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          }
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "8wf9sEw9VsmnN3voWYgyM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "8wf9sEw9VsmnN3voWYgyM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "8wf9sEw9VsmnN3voWYgyM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "8wf9sEw9VsmnN3voWYgyM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "8wf9sEw9VsmnN3voWYgyM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "8wf9sEw9VsmnN3voWYgyM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.65
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 8
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:fontFamily:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Quicksand",
+              "sans-serif"
+            ]
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:fontWeight:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.375
+          }
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "ftrQXZYNgw-GEaP-3YMkM",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          }
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz:Pp_9hWdUBEWOGTGwRmM1f:marginTop:",
+        {
+          "styleSourceId": "kwnt2x3svbac9f-fAYdyz",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz:Pp_9hWdUBEWOGTGwRmM1f:marginRight:",
+        {
+          "styleSourceId": "kwnt2x3svbac9f-fAYdyz",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginRight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz:Pp_9hWdUBEWOGTGwRmM1f:marginBottom:",
+        {
+          "styleSourceId": "kwnt2x3svbac9f-fAYdyz",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz:Pp_9hWdUBEWOGTGwRmM1f:marginLeft:",
+        {
+          "styleSourceId": "kwnt2x3svbac9f-fAYdyz",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz:Pp_9hWdUBEWOGTGwRmM1f:fontSize:",
+        {
+          "styleSourceId": "kwnt2x3svbac9f-fAYdyz",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1875
+          }
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz:Pp_9hWdUBEWOGTGwRmM1f:lineHeight:",
+        {
+          "styleSourceId": "kwnt2x3svbac9f-fAYdyz",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.65
+          }
+        }
+      ],
+      [
+        "bqoaurRzPsiqPD1XmU5Z-:Pp_9hWdUBEWOGTGwRmM1f:color:",
+        {
+          "styleSourceId": "bqoaurRzPsiqPD1XmU5Z-",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "color",
+          "value": {
+            "type": "keyword",
+            "value": "inherit"
+          }
+        }
+      ],
+      [
+        "bqoaurRzPsiqPD1XmU5Z-:Pp_9hWdUBEWOGTGwRmM1f:textDecorationLine:",
+        {
+          "styleSourceId": "bqoaurRzPsiqPD1XmU5Z-",
+          "breakpointId": "Pp_9hWdUBEWOGTGwRmM1f",
+          "property": "textDecorationLine",
+          "value": {
+            "type": "keyword",
+            "value": "underline"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -16247,6 +17657,118 @@
         {
           "type": "local",
           "id": "Q7oJFddN-nmy6nYFwtKCL"
+        }
+      ],
+      [
+        "MY1_SYzK5o3JW9UWxDc0D",
+        {
+          "type": "local",
+          "id": "MY1_SYzK5o3JW9UWxDc0D"
+        }
+      ],
+      [
+        "QTNjuqaYBDoUm9YGyJYSD",
+        {
+          "type": "local",
+          "id": "QTNjuqaYBDoUm9YGyJYSD"
+        }
+      ],
+      [
+        "gMytxzRFX9SxuvfsGmSPn",
+        {
+          "type": "local",
+          "id": "gMytxzRFX9SxuvfsGmSPn"
+        }
+      ],
+      [
+        "n8VZDBcGTwYcbrhtbp7vS",
+        {
+          "type": "local",
+          "id": "n8VZDBcGTwYcbrhtbp7vS"
+        }
+      ],
+      [
+        "djANix9_qJ0pNEYVF3-sw",
+        {
+          "type": "local",
+          "id": "djANix9_qJ0pNEYVF3-sw"
+        }
+      ],
+      [
+        "vhC10pdkoCFBY79Glup9K",
+        {
+          "type": "local",
+          "id": "vhC10pdkoCFBY79Glup9K"
+        }
+      ],
+      [
+        "6x1bSx2_9Yepn5JSTkOBi",
+        {
+          "type": "local",
+          "id": "6x1bSx2_9Yepn5JSTkOBi"
+        }
+      ],
+      [
+        "fDFvhmH2RyEz5BrWoForp",
+        {
+          "type": "local",
+          "id": "fDFvhmH2RyEz5BrWoForp"
+        }
+      ],
+      [
+        "0ihS5k-gEBq1LfeYRUOk8",
+        {
+          "type": "local",
+          "id": "0ihS5k-gEBq1LfeYRUOk8"
+        }
+      ],
+      [
+        "rzU9QRZ9IzeAu3XVunHpl",
+        {
+          "type": "local",
+          "id": "rzU9QRZ9IzeAu3XVunHpl"
+        }
+      ],
+      [
+        "YG_NiK4HXjasN2DJ4RYI9",
+        {
+          "type": "local",
+          "id": "YG_NiK4HXjasN2DJ4RYI9"
+        }
+      ],
+      [
+        "q3ZHokhF-lRSwEnIObmCw",
+        {
+          "type": "local",
+          "id": "q3ZHokhF-lRSwEnIObmCw"
+        }
+      ],
+      [
+        "8wf9sEw9VsmnN3voWYgyM",
+        {
+          "type": "local",
+          "id": "8wf9sEw9VsmnN3voWYgyM"
+        }
+      ],
+      [
+        "ftrQXZYNgw-GEaP-3YMkM",
+        {
+          "type": "local",
+          "id": "ftrQXZYNgw-GEaP-3YMkM"
+        }
+      ],
+      [
+        "kwnt2x3svbac9f-fAYdyz",
+        {
+          "type": "local",
+          "id": "kwnt2x3svbac9f-fAYdyz"
+        }
+      ],
+      [
+        "bqoaurRzPsiqPD1XmU5Z-",
+        {
+          "type": "local",
+          "id": "bqoaurRzPsiqPD1XmU5Z-"
         }
       ]
     ],
@@ -17616,6 +19138,150 @@
           "instanceId": "BuOI-Vmm1JvXn1GBrtHtU",
           "values": [
             "Q7oJFddN-nmy6nYFwtKCL"
+          ]
+        }
+      ],
+      [
+        "v8U0GpJuTuFpyGzsm05I1",
+        {
+          "instanceId": "v8U0GpJuTuFpyGzsm05I1",
+          "values": [
+            "MY1_SYzK5o3JW9UWxDc0D"
+          ]
+        }
+      ],
+      [
+        "caaP56SOr0BK0hVJOmvoZ",
+        {
+          "instanceId": "caaP56SOr0BK0hVJOmvoZ",
+          "values": [
+            "QTNjuqaYBDoUm9YGyJYSD"
+          ]
+        }
+      ],
+      [
+        "UVRpUUpEg7Lxv0Ss7CpY7",
+        {
+          "instanceId": "UVRpUUpEg7Lxv0Ss7CpY7",
+          "values": [
+            "gMytxzRFX9SxuvfsGmSPn"
+          ]
+        }
+      ],
+      [
+        "ngW9C0BVd4VFAKEt3waJI",
+        {
+          "instanceId": "ngW9C0BVd4VFAKEt3waJI",
+          "values": [
+            "n8VZDBcGTwYcbrhtbp7vS"
+          ]
+        }
+      ],
+      [
+        "7KGVoddQo7EKA52OduNIZ",
+        {
+          "instanceId": "7KGVoddQo7EKA52OduNIZ",
+          "values": [
+            "djANix9_qJ0pNEYVF3-sw"
+          ]
+        }
+      ],
+      [
+        "-54hdA4F9jxPJoRSXdWBl",
+        {
+          "instanceId": "-54hdA4F9jxPJoRSXdWBl",
+          "values": [
+            "vhC10pdkoCFBY79Glup9K"
+          ]
+        }
+      ],
+      [
+        "90SR-pSVeXyiHvXLDqvLC",
+        {
+          "instanceId": "90SR-pSVeXyiHvXLDqvLC",
+          "values": [
+            "6x1bSx2_9Yepn5JSTkOBi"
+          ]
+        }
+      ],
+      [
+        "XdAOIUAY-j_qdrcX66j-Z",
+        {
+          "instanceId": "XdAOIUAY-j_qdrcX66j-Z",
+          "values": [
+            "fDFvhmH2RyEz5BrWoForp"
+          ]
+        }
+      ],
+      [
+        "SBKdFDhbzZl4YfJwEHiI6",
+        {
+          "instanceId": "SBKdFDhbzZl4YfJwEHiI6",
+          "values": [
+            "0ihS5k-gEBq1LfeYRUOk8"
+          ]
+        }
+      ],
+      [
+        "HhSQC5yxTnsngniNPD7fC",
+        {
+          "instanceId": "HhSQC5yxTnsngniNPD7fC",
+          "values": [
+            "rzU9QRZ9IzeAu3XVunHpl"
+          ]
+        }
+      ],
+      [
+        "mEG1FydafN8bedM2zrE-W",
+        {
+          "instanceId": "mEG1FydafN8bedM2zrE-W",
+          "values": [
+            "YG_NiK4HXjasN2DJ4RYI9"
+          ]
+        }
+      ],
+      [
+        "s5Eleb6jDi0SX9QESM-P1",
+        {
+          "instanceId": "s5Eleb6jDi0SX9QESM-P1",
+          "values": [
+            "q3ZHokhF-lRSwEnIObmCw"
+          ]
+        }
+      ],
+      [
+        "pSxy2JZ85y3PJdtSS7r8y",
+        {
+          "instanceId": "pSxy2JZ85y3PJdtSS7r8y",
+          "values": [
+            "8wf9sEw9VsmnN3voWYgyM"
+          ]
+        }
+      ],
+      [
+        "yACpNQQnlt3tz8wTmYPFc",
+        {
+          "instanceId": "yACpNQQnlt3tz8wTmYPFc",
+          "values": [
+            "ftrQXZYNgw-GEaP-3YMkM"
+          ]
+        }
+      ],
+      [
+        "jENjkU29CB0XgqwmKDXOd",
+        {
+          "instanceId": "jENjkU29CB0XgqwmKDXOd",
+          "values": [
+            "kwnt2x3svbac9f-fAYdyz"
+          ]
+        }
+      ],
+      [
+        "gQaswfoca0cFmNJw9Kg-K",
+        {
+          "instanceId": "gQaswfoca0cFmNJw9Kg-K",
+          "values": [
+            "bqoaurRzPsiqPD1XmU5Z-"
           ]
         }
       ]
@@ -19012,6 +20678,46 @@
           "name": "data-ws-no-initial-animation",
           "type": "string",
           "value": ""
+        }
+      ],
+      [
+        "x2ngSTlRo3gHOLMNjmC2S",
+        {
+          "id": "x2ngSTlRo3gHOLMNjmC2S",
+          "instanceId": "v8U0GpJuTuFpyGzsm05I1",
+          "name": "id",
+          "type": "string",
+          "value": "faq"
+        }
+      ],
+      [
+        "szM6OHj9IkloqG9iYNi78",
+        {
+          "id": "szM6OHj9IkloqG9iYNi78",
+          "instanceId": "v8U0GpJuTuFpyGzsm05I1",
+          "name": "aria-labelledby",
+          "type": "string",
+          "value": "faq-heading"
+        }
+      ],
+      [
+        "iZ_1nrjEwtrb2tAmTXrEc",
+        {
+          "id": "iZ_1nrjEwtrb2tAmTXrEc",
+          "instanceId": "UVRpUUpEg7Lxv0Ss7CpY7",
+          "name": "id",
+          "type": "string",
+          "value": "faq-heading"
+        }
+      ],
+      [
+        "gGzw1DYCfRKWYSzEmtjlc",
+        {
+          "id": "gGzw1DYCfRKWYSzEmtjlc",
+          "instanceId": "gQaswfoca0cFmNJw9Kg-K",
+          "name": "href",
+          "type": "string",
+          "value": "https://988lifeline.org"
         }
       ]
     ],
@@ -21035,6 +22741,10 @@
             },
             {
               "type": "id",
+              "value": "v8U0GpJuTuFpyGzsm05I1"
+            },
+            {
+              "type": "id",
               "value": "r4AWQ1JnDuygT8KVKNqMY"
             }
           ]
@@ -22232,6 +23942,302 @@
             }
           ]
         }
+      ],
+      [
+        "v8U0GpJuTuFpyGzsm05I1",
+        {
+          "type": "instance",
+          "id": "v8U0GpJuTuFpyGzsm05I1",
+          "component": "ws:element",
+          "tag": "section",
+          "children": [
+            {
+              "type": "id",
+              "value": "caaP56SOr0BK0hVJOmvoZ"
+            }
+          ]
+        }
+      ],
+      [
+        "caaP56SOr0BK0hVJOmvoZ",
+        {
+          "type": "instance",
+          "id": "caaP56SOr0BK0hVJOmvoZ",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "UVRpUUpEg7Lxv0Ss7CpY7"
+            },
+            {
+              "type": "id",
+              "value": "ngW9C0BVd4VFAKEt3waJI"
+            },
+            {
+              "type": "id",
+              "value": "7KGVoddQo7EKA52OduNIZ"
+            },
+            {
+              "type": "id",
+              "value": "-54hdA4F9jxPJoRSXdWBl"
+            },
+            {
+              "type": "id",
+              "value": "90SR-pSVeXyiHvXLDqvLC"
+            },
+            {
+              "type": "id",
+              "value": "XdAOIUAY-j_qdrcX66j-Z"
+            },
+            {
+              "type": "id",
+              "value": "SBKdFDhbzZl4YfJwEHiI6"
+            },
+            {
+              "type": "id",
+              "value": "HhSQC5yxTnsngniNPD7fC"
+            },
+            {
+              "type": "id",
+              "value": "mEG1FydafN8bedM2zrE-W"
+            },
+            {
+              "type": "id",
+              "value": "s5Eleb6jDi0SX9QESM-P1"
+            },
+            {
+              "type": "id",
+              "value": "pSxy2JZ85y3PJdtSS7r8y"
+            },
+            {
+              "type": "id",
+              "value": "yACpNQQnlt3tz8wTmYPFc"
+            },
+            {
+              "type": "id",
+              "value": "jENjkU29CB0XgqwmKDXOd"
+            }
+          ]
+        }
+      ],
+      [
+        "UVRpUUpEg7Lxv0Ss7CpY7",
+        {
+          "type": "instance",
+          "id": "UVRpUUpEg7Lxv0Ss7CpY7",
+          "component": "ws:element",
+          "tag": "h2",
+          "children": [
+            {
+              "type": "text",
+              "value": "Questions"
+            }
+          ]
+        }
+      ],
+      [
+        "ngW9C0BVd4VFAKEt3waJI",
+        {
+          "type": "instance",
+          "id": "ngW9C0BVd4VFAKEt3waJI",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "Is Twyne anonymous?"
+            }
+          ]
+        }
+      ],
+      [
+        "7KGVoddQo7EKA52OduNIZ",
+        {
+          "type": "instance",
+          "id": "7KGVoddQo7EKA52OduNIZ",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "Yes. Nobody sees your name, number or profile. The other person only hears your spoken intro and what you choose to say on the call. If you both opt in after a call, you can stay connected."
+            }
+          ]
+        }
+      ],
+      [
+        "-54hdA4F9jxPJoRSXdWBl",
+        {
+          "type": "instance",
+          "id": "-54hdA4F9jxPJoRSXdWBl",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "Is Twyne a dating app?"
+            }
+          ]
+        }
+      ],
+      [
+        "90SR-pSVeXyiHvXLDqvLC",
+        {
+          "type": "instance",
+          "id": "90SR-pSVeXyiHvXLDqvLC",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "No. Twyne is for conversation: share what's on your mind, listen to someone else, or just talk."
+            }
+          ]
+        }
+      ],
+      [
+        "XdAOIUAY-j_qdrcX66j-Z",
+        {
+          "type": "instance",
+          "id": "XdAOIUAY-j_qdrcX66j-Z",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "How does Twyne keep calls safe?"
+            }
+          ]
+        }
+      ],
+      [
+        "SBKdFDhbzZl4YfJwEHiI6",
+        {
+          "type": "instance",
+          "id": "SBKdFDhbzZl4YfJwEHiI6",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "Both people choose to talk: you hear someone's intro before you call them or pick up. Calls are securely recorded and only reviewed if someone reports a problem, and recordings are deleted after 30 days unless a report needs them. Twyne is for adults 18+."
+            }
+          ]
+        }
+      ],
+      [
+        "HhSQC5yxTnsngniNPD7fC",
+        {
+          "type": "instance",
+          "id": "HhSQC5yxTnsngniNPD7fC",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "Is Twyne free?"
+            }
+          ]
+        }
+      ],
+      [
+        "mEG1FydafN8bedM2zrE-W",
+        {
+          "type": "instance",
+          "id": "mEG1FydafN8bedM2zrE-W",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "The private beta is free. Beta users who stay active get a lifetime discount and a few free months when we launch."
+            }
+          ]
+        }
+      ],
+      [
+        "s5Eleb6jDi0SX9QESM-P1",
+        {
+          "type": "instance",
+          "id": "s5Eleb6jDi0SX9QESM-P1",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "Who can join, and when?"
+            }
+          ]
+        }
+      ],
+      [
+        "pSxy2JZ85y3PJdtSS7r8y",
+        {
+          "type": "instance",
+          "id": "pSxy2JZ85y3PJdtSS7r8y",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "Adults 18+ in the US, on Android and iOS. Beta seats are expected to start opening on December 1st, 2026, with weekend trial dates in early 2027."
+            }
+          ]
+        }
+      ],
+      [
+        "yACpNQQnlt3tz8wTmYPFc",
+        {
+          "type": "instance",
+          "id": "yACpNQQnlt3tz8wTmYPFc",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "Is Twyne a mental health or crisis service?"
+            }
+          ]
+        }
+      ],
+      [
+        "jENjkU29CB0XgqwmKDXOd",
+        {
+          "type": "instance",
+          "id": "jENjkU29CB0XgqwmKDXOd",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "No. Twyne is for everyday conversation and isn't a substitute for professional support. If you're in crisis in the US, call or text "
+            },
+            {
+              "type": "id",
+              "value": "gQaswfoca0cFmNJw9Kg-K"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        }
+      ],
+      [
+        "gQaswfoca0cFmNJw9Kg-K",
+        {
+          "type": "instance",
+          "id": "gQaswfoca0cFmNJw9Kg-K",
+          "component": "ws:element",
+          "tag": "a",
+          "children": [
+            {
+              "type": "text",
+              "value": "988"
+            }
+          ]
+        }
       ]
     ],
     "dataSources": [],
@@ -22247,13 +24253,13 @@
   "page": {
     "id": "bdrm5mcT63-l19-Ws6E_T",
     "name": "Home",
-    "title": "\"Twyne: voice calls with someone new\"",
+    "title": "\"Twyne: Anonymous Voice Calls With Strangers\"",
     "history": [
       "/"
     ],
     "rootInstanceId": "0mMBzTSETwmWuUyRHPE5G",
     "meta": {
-      "description": "\"Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.\"",
+      "description": "\"Twyne is a voice-only app for real conversations with strangers. Hear someone's intro, choose who to call, and just talk. Join the free US beta waitlist.\"",
       "language": "\"en\"",
       "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
     },
@@ -22263,13 +24269,13 @@
     {
       "id": "bdrm5mcT63-l19-Ws6E_T",
       "name": "Home",
-      "title": "\"Twyne: voice calls with someone new\"",
+      "title": "\"Twyne: Anonymous Voice Calls With Strangers\"",
       "history": [
         "/"
       ],
       "rootInstanceId": "0mMBzTSETwmWuUyRHPE5G",
       "meta": {
-        "description": "\"Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.\"",
+        "description": "\"Twyne is a voice-only app for real conversations with strangers. Hear someone's intro, choose who to call, and just talk. Join the free US beta waitlist.\"",
         "language": "\"en\"",
         "socialImageAssetId": "1jGTE8K3z3sDRvV_QO0H6"
       },

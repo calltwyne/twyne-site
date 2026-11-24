@@ -38,8 +38,8 @@ export const getManagedFormResourceGraph = (formId: string, _managedFormProps: {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Twyne: voice calls with someone new",
-    description: "Twyne connects you with strangers for anonymous voice conversations. Hear someone's intro, choose who to call, and just talk. Coming soon.",
+    title: "Twyne: Anonymous Voice Calls With Strangers",
+    description: "Twyne is a voice-only app for real conversations with strangers. Hear someone's intro, choose who to call, and just talk. Join the free US beta waitlist.",
     excludePageFromSearch: undefined,
     language: "en",
     socialImageAssetName: "twyne-share_bGN-OP27Bda1oeYeVLtnc.png",
