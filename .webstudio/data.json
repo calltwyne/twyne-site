@@ -3,9 +3,9 @@
   "build": {
     "id": "d02befe1-3cc5-40ac-b2b6-eddf33c9b3ea",
     "projectId": "371dd6c6-fdc2-4b70-8c58-5536eddf106e",
-    "version": 297,
+    "version": 299,
     "createdAt": "2026-11-22T04:10:05.146+00:00",
-    "updatedAt": "2026-11-22T17:53:46.153+00:00",
+    "updatedAt": "2026-11-24T20:53:34.758+00:00",
     "pages": {
       "homePageId": "bdrm5mcT63-l19-Ws6E_T",
       "rootFolderId": "root",
@@ -18973,6 +18973,36 @@
             ]
           }
         }
+      ],
+      [
+        "Q57ollGJusyWXavCrHJpg",
+        {
+          "id": "Q57ollGJusyWXavCrHJpg",
+          "instanceId": "Xt2JDaGT3fkX24Ly9oHOZ",
+          "name": "loading",
+          "type": "string",
+          "value": "eager"
+        }
+      ],
+      [
+        "OIaN-zrjpRUJyiroR2i5H",
+        {
+          "id": "OIaN-zrjpRUJyiroR2i5H",
+          "instanceId": "Xt2JDaGT3fkX24Ly9oHOZ",
+          "name": "fetchPriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "LSSsBZlzbjh9Im7zx_JwF",
+        {
+          "id": "LSSsBZlzbjh9Im7zx_JwF",
+          "instanceId": "Pgq-4BrPBNAcPjspWhbbJ",
+          "name": "loading",
+          "type": "string",
+          "value": "eager"
+        }
       ]
     ],
     "instances": [
@@ -19629,19 +19659,19 @@
           "children": [
             {
               "type": "id",
-              "value": "7y8CuUa7EMIlUbo_hEGgp"
+              "value": "ScssimScaHF5gtnQzkuhR"
             },
             {
               "type": "id",
-              "value": "tvlF-iTS1KCU1opiy7Nqh"
+              "value": "_9cCR3hR-1zf5Lg_f0uUw"
             },
             {
               "type": "id",
-              "value": "IAY5xeeNMIZnQ5i9gO0mZ"
+              "value": "UTZks2m6wqvX6OhT-qqQD"
             },
             {
               "type": "id",
-              "value": "EMtg6Wd1hn3UxM14YLHNq"
+              "value": "RmN82vTBpJh7fsPjDb1nL"
             }
           ]
         }
@@ -19656,11 +19686,7 @@
           "children": [
             {
               "type": "id",
-              "value": "MKYV4fXnF4hCYWMdDqCY3"
-            },
-            {
-              "type": "id",
-              "value": "YmS2OYShXYKjDRVFGwvx_"
+              "value": "7y8CuUa7EMIlUbo_hEGgp"
             }
           ]
         }
@@ -19709,11 +19735,7 @@
           "children": [
             {
               "type": "id",
-              "value": "90OgdLcaHSsVYTHpFDbpC"
-            },
-            {
-              "type": "id",
-              "value": "2hHsmvyBynAtZQHr64J08"
+              "value": "tvlF-iTS1KCU1opiy7Nqh"
             }
           ]
         }
@@ -19762,11 +19784,7 @@
           "children": [
             {
               "type": "id",
-              "value": "dHx8zpNBu2iZAgMRHN6P_"
-            },
-            {
-              "type": "id",
-              "value": "3JRLXPsvl0uSMz7ykktCM"
+              "value": "IAY5xeeNMIZnQ5i9gO0mZ"
             }
           ]
         }
@@ -22006,11 +22024,7 @@
           "children": [
             {
               "type": "id",
-              "value": "8dVubSId3KgTBfVOy6WhA"
-            },
-            {
-              "type": "id",
-              "value": "kRLkUO3JUaoQCvwLNug2Z"
+              "value": "EMtg6Wd1hn3UxM14YLHNq"
             }
           ]
         }
@@ -22118,7 +22132,11 @@
           "children": [
             {
               "type": "id",
-              "value": "ScssimScaHF5gtnQzkuhR"
+              "value": "MKYV4fXnF4hCYWMdDqCY3"
+            },
+            {
+              "type": "id",
+              "value": "YmS2OYShXYKjDRVFGwvx_"
             }
           ]
         }
@@ -22132,7 +22150,11 @@
           "children": [
             {
               "type": "id",
-              "value": "_9cCR3hR-1zf5Lg_f0uUw"
+              "value": "90OgdLcaHSsVYTHpFDbpC"
+            },
+            {
+              "type": "id",
+              "value": "2hHsmvyBynAtZQHr64J08"
             }
           ]
         }
@@ -22146,7 +22168,11 @@
           "children": [
             {
               "type": "id",
-              "value": "UTZks2m6wqvX6OhT-qqQD"
+              "value": "dHx8zpNBu2iZAgMRHN6P_"
+            },
+            {
+              "type": "id",
+              "value": "3JRLXPsvl0uSMz7ykktCM"
             }
           ]
         }
@@ -22160,7 +22186,11 @@
           "children": [
             {
               "type": "id",
-              "value": "RmN82vTBpJh7fsPjDb1nL"
+              "value": "8dVubSId3KgTBfVOy6WhA"
+            },
+            {
+              "type": "id",
+              "value": "kRLkUO3JUaoQCvwLNug2Z"
             }
           ]
         }

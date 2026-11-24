@@ -10,7 +10,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       export const projectId = "371dd6c6-fdc2-4b70-8c58-5536eddf106e";
 
-      export const projectVersion = 297;
+      export const projectVersion = 299;
 
       export const projectDomain = "twyne-d0hd8";
 
@@ -53,6 +53,8 @@ src={"/assets/twyne-logo_ZH0lPB8VSKTVhd5nynH4N.svg"}
 alt={"Twyne"}
 width={325}
 height={126}
+loading={"eager"}
+fetchPriority={"high"}
 className={`w-image ctsir9j c1smx44f`} />
 </AnimateChildren>
 <AnimateChildren
@@ -93,6 +95,7 @@ src={"/assets/hero-thread_1_ec2-bz3CPAbEHHXyBHc9I.svg"}
 alt={""}
 width={1200}
 height={560}
+loading={"eager"}
 className={`w-image c1vfrodo c2wofl7 c793t1g c1smx44f czhujck c1smpmqx cytv93w`} />
 </header>
 <main
@@ -169,10 +172,10 @@ aria-hidden={"true"}
 className={`w-element c41sczd c35bcud ccnnt2g cgg3k5f c1b1fz86 c182ha88 c16kb1wd c1ts44ms cd27j0t c130xw9q c5514a9 c66c417`} />
 <ol
 className={`w-element cilwzau chfma3x c3gwvwi c1gel12d cc4y3bl c8hmidv c5f0w58 c1agumxi c9y666 cggucie`}>
-<AnimateChildren
-action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <span
 aria-hidden={"true"}
 className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt c1tyxqon c12fzci4 cc4y3bl cevfkc8 c1y7wzlv cgi1mk7 cr9l50h c1c477ow cpu32ic c4cpl0d ceevomt`}>
@@ -186,12 +189,12 @@ className={`w-element`}>
 </b>
 {": Record a short spoken intro and choose some optional preferences to help us match you with another user."}
 </p>
-</li>
 </AnimateChildren>
-<AnimateChildren
-action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
+</li>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <span
 aria-hidden={"true"}
 className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt c1tyxqon c12fzci4 cc4y3bl cevfkc8 c1y7wzlv cgi1mk7 cr9l50h c1c477ow cpu32ic c4cpl0d ceevomt`}>
@@ -205,12 +208,12 @@ className={`w-element`}>
 </b>
 {"When you're free, you can choose to mark yourself as available for calls. When receiving a call, users will hear the intro for the person calling them and can decide then whether or not they are interested."}
 </p>
-</li>
 </AnimateChildren>
-<AnimateChildren
-action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
+</li>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <span
 aria-hidden={"true"}
 className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt c1tyxqon c12fzci4 cc4y3bl cevfkc8 c1y7wzlv cgi1mk7 cr9l50h c1c477ow cpu32ic c4cpl0d ceevomt`}>
@@ -224,12 +227,12 @@ className={`w-element`}>
 </b>
 {"You can also choose to listen to other people's intros and initiate a call yourself."}
 </p>
-</li>
 </AnimateChildren>
-<AnimateChildren
-action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
+</li>
 <li
 className={`w-element cc4y3bl c13u9eit c1wxmlz8 c1hbrz6f c5h76ku`}>
+<AnimateChildren
+action={{"type":"view","animations":[{"name":"Fade in","description":"Fade in the element as it scrolls into view.","keyframes":[{"offset":0,"styles":{"opacity":{"type":"unit","unit":"number","value":0}}}],"timing":{"easing":"linear","fill":"backwards","duration":{"type":"unit","value":1,"unit":"s"},"rangeStart":["entry",{"type":"unit","value":0,"unit":"%"}],"rangeEnd":["entry",{"type":"unit","value":100,"unit":"%"}]}}]}}>
 <span
 aria-hidden={"true"}
 className={`w-element ca9wkt1 cnljk2u c1upnwoi c1h3v0ah cdwjk81 c1mp99r2 chmflt c1tyxqon c12fzci4 cc4y3bl cevfkc8 c1y7wzlv cgi1mk7 cr9l50h c1c477ow cpu32ic c4cpl0d ceevomt`}>
@@ -243,8 +246,8 @@ className={`w-element`}>
 </b>
 {"Have your conversation. After the call, users can decide if they want to stay connected without notifying the other. If both users opt-in to staying connected, they can then see each-other's availability and make contact directly in the future."}
 </p>
-</li>
 </AnimateChildren>
+</li>
 </ol>
 </div>
 <Image
